@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mclauncher-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mclauncher-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
